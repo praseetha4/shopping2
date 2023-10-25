@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ShoppingWCFService", "ShoppingWCFService\", "{2D3E6FF2-8641-44F9-860B-E7076913D1F7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53199"
+		Debug.AspNetCompiler.PhysicalPath = "ShoppingWCFService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53199\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53199"
+		Release.AspNetCompiler.PhysicalPath = "ShoppingWCFService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53199\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53199"
+		SlnRelativePath = "ShoppingWCFService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3E6FF2-8641-44F9-860B-E7076913D1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3E6FF2-8641-44F9-860B-E7076913D1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C5D9E5-8A1B-4C95-8340-36032547B35A}
+	EndGlobalSection
+EndGlobal
